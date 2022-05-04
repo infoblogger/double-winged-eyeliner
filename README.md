@@ -1,30 +1,4 @@
 
- 
- <!DOCTYPE html>
-<html>
-<title>The Winged Eyeliner Stamp: Why You Need This Makeup Essential</title>
-<meta property="og:title" content="double winged eyeliner" />
-<meta name="keywords" content="double winged eyeliner" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="icon" href="https://icons.iconarchive.com/icons/aha-soft/free-global-security/16/Global-Network-icon.png" type="image/gif" sizes="16x16">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {font-family: "Lato", sans-serif}
-.mySlides {display: none}
-</style>
-<body>
-
-
-<!-- Page content -->
-<div class="w3-content" style="max-width:2000px;margin-top:46px">
-  
-  <!-- The Band Section -->
-  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:900px" id="band">
-    <h1 class="w3-wide"></h1>
-    <p class="w3-opacity"><i></a></i></p> 
-    <p class="w3-justify">
 	
 <h1 style="text-align: center;"><span style="font-weight: 400;"><strong>The Winged Eyeliner Stamp: Why You Need This Makeup Essential</strong></span></h1>
 <p><a href="https://www.amazon.com/Eyeliner-Stamp-WingLiner-Waterproof-Smudgeproof/dp/B07GM317JJ"><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/photos/green-eyed-beautiful-model-applying-foundation-with-a-brush-picture-id468112252?k=20&amp;m=468112252&amp;s=612x612&amp;w=0&amp;h=wfyKQJ9-6W0HlWeMwpQIAcf5L1iljD4_GJaVzW_aDUI=" alt="" width="612" height="408" /></span></a></p>
@@ -41,21 +15,3 @@ body {font-family: "Lato", sans-serif}
 <p style="text-align: justify;"><br />If that weren't impressive enough, the Flick Stick is also waterproof and impervious to smudges. It's constructed of Candelilla wax as well as Carnauba wax, both of which contribute to its fast-drying and long-lasting formula.</p>
 <p style="text-align: justify;"><br /><br />Shop The Flick Stick in Amazon</p>
 <p style="text-align: justify;"><br />If you're not sure whether to try it out go through the Flick Stick winged eyeliner stamp reviews on Amazon. This gives you the opportunity to read up on customer reviews, and figure out whether it's worth adding to your makeup routine. Whatever you decide to do, you have a brand new beauty trick to try once you're ready! Check out the Amazon store to find out more.</p>
-
-
-
-
-
-
-
-
-
-
-<!-- Footer -->
-
-
-</div>
-</div>
-
-</body>
-</html>
